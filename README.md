@@ -1,2 +1,0 @@
-# LWCSessions
-Learning LWC Sessions 
